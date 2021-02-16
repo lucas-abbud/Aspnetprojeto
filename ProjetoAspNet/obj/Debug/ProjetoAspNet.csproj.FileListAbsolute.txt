@@ -1,0 +1,180 @@
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\ApplicationInsights.config
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\roslyn\csc.exe
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\roslyn\System.Collections.Immutable.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\roslyn\vbc.exe
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\roslyn\VBCSCompiler.exe
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\roslyn\VBCSCompiler.exe.config
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\ProjetoAspNet.dll.config
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\ProjetoAspNet.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\ProjetoAspNet.pdb
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Antlr3.Runtime.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\EntityFramework.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\EntityFramework.SqlServer.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AI.Web.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AI.WindowsServer.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.ApplicationInsights.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.Google.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Web.Infrastructure.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Newtonsoft.Json.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Owin.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\System.Net.Http.Formatting.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\System.Web.Helpers.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\System.Web.Http.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\System.Web.Http.WebHost.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\System.Web.Mvc.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\System.Web.Optimization.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\System.Web.Razor.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\System.Web.WebPages.Deployment.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\System.Web.WebPages.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\System.Web.WebPages.Razor.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\WebGrease.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AI.Web.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AI.WindowsServer.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.ApplicationInsights.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\System.Web.Helpers.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\System.Web.Mvc.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\System.Web.Optimization.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\System.Web.Razor.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\System.Web.WebPages.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\System.Web.WebPages.Deployment.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\System.Web.WebPages.Razor.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Antlr3.Runtime.pdb
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Newtonsoft.Json.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\System.Net.Http.Formatting.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\System.Web.Http.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\System.Web.Http.WebHost.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\EntityFramework.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\EntityFramework.SqlServer.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.Google.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\obj\Debug\ProjetoAspNet.csprojResolveAssemblyReference.cache
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\obj\Debug\ProjetoAspNet.dll
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\obj\Debug\ProjetoAspNet.pdb
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\obj\Debug\ProjetoAspNet.Migrations._000_Inicial.resources
+c:\users\yago\documents\visual studio 2015\Projects\ProjetoAspNet\ProjetoAspNet\obj\Debug\ProjetoAspNet.csproj.GenerateResource.Cache
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\ApplicationInsights.config
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\roslyn\csc.exe
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\roslyn\vbc.exe
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\roslyn\VBCSCompiler.exe
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\ProjetoAspNet.dll.config
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\ProjetoAspNet.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\ProjetoAspNet.pdb
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Antlr3.Runtime.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\EntityFramework.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\EntityFramework.SqlServer.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AI.Web.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.ApplicationInsights.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Newtonsoft.Json.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Owin.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\System.Net.Http.Formatting.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\System.Web.Helpers.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\System.Web.Http.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\System.Web.Http.WebHost.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\System.Web.Mvc.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\System.Web.Optimization.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\System.Web.Razor.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\System.Web.WebPages.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\System.Web.WebPages.Razor.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\WebGrease.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AI.Web.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.ApplicationInsights.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\System.Web.Helpers.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\System.Web.Mvc.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\System.Web.Optimization.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\System.Web.Razor.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\System.Web.WebPages.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\System.Web.WebPages.Razor.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Antlr3.Runtime.pdb
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Newtonsoft.Json.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\System.Net.Http.Formatting.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\System.Web.Http.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\System.Web.Http.WebHost.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\EntityFramework.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\EntityFramework.SqlServer.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\obj\Debug\ProjetoAspNet.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\obj\Debug\ProjetoAspNet.Migrations._000_Inicial.resources
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\obj\Debug\ProjetoAspNet.csproj.GenerateResource.Cache
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\obj\Debug\ProjetoAspNet.dll
+C:\Users\lucas\Desktop\projeto\ProjetoAspNet\ProjetoAspNet\obj\Debug\ProjetoAspNet.pdb
